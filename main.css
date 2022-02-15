@@ -1,6 +1,7 @@
 body{
     background-color: #cc0000;
     display:block;
+    position:absolute;
 }
 .nav{
     background-color: black;
